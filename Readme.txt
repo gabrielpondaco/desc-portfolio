@@ -1,3 +1,5 @@
+Portfólio criado para fins de ESTUDO, utilizando o template mencionado.
+
 Thanks for downloading this template!
 
 Template Name: iPortfolio
